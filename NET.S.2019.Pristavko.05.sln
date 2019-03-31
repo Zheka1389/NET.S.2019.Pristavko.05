@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET.S.2019.Pristavko.05", "NET.S.2019.Pristavko.05\NET.S.2019.Pristavko.05.csproj", "{D44988EE-A588-4D3E-A89F-B51F5418B869}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D44988EE-A588-4D3E-A89F-B51F5418B869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D44988EE-A588-4D3E-A89F-B51F5418B869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D44988EE-A588-4D3E-A89F-B51F5418B869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D44988EE-A588-4D3E-A89F-B51F5418B869}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28653BE8-4B6D-4477-BAB2-2ECD48D0B198}
+	EndGlobalSection
+EndGlobal
