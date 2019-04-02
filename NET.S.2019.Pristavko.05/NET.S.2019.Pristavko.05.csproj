@@ -51,9 +51,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Extensions.cs" />
+    <Compile Include="Polynomial.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SortBubble.cs" />
+    <Compile Include="Tests\PolynomialTests.cs" />
     <Compile Include="Tests\SortBubbleTest.cs" />
   </ItemGroup>
   <ItemGroup>
